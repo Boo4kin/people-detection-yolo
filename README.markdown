@@ -52,8 +52,8 @@
 - `CV.rar/CV.ipynb`: Основной ноутбук для обработки видео и детекции людей.
 - `requirements.txt`: Список зависимостей.
 - `README.md`: Документация проекта.
-- `crowd.mp4`: Входное видео
-- `output_crowd_yolo.mp4`: Обработанное видео
+- [`crowd.mp4`](https://github.com/Boo4kin/people-detection-yolo/blob/main/crowd.mp4): Входное видео
+- [`output_crowd_yolo.mp4`](https://github.com/Boo4kin/people-detection-yolo/blob/main/output_crowd_yolo.mp4): Обработанное видео
 - `.gitignore`: Файл, указывающий, какие файлы игнорировать в Git.
 - `input/` (не в Git): Папка для входного видео.
 - `output/` (не в Git): Папка для выходного видео.
